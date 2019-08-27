@@ -1,0 +1,7 @@
+{
+    "name": "framework-NB",
+    "description": "Quectel NB Frameworks for PlatformIO",
+    "url": "https://github.com/OS-Q/N15",
+    "system": "*",
+    "version": "1.0.0"
+}
