@@ -1,4 +1,4 @@
-﻿# [Framework N15](https://github.com/OS-Q/N15)
+﻿# [Framework N19](https://github.com/OS-Q/N19)
 [![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
@@ -6,12 +6,11 @@
 
 ### [Framework描述](https://github.com/OS-Q/H11/wiki) 
 
- [Framework N15](https://github.com/OS-Q/N15) 基于 PlatformIO
+ [Framework N19](https://github.com/OS-Q/N19) 基于 PlatformIO ，Arduino  NB-IoT
 
 ### [关联资源](https://github.com/OS-Q/)
 
- *  [ M5](https://github.com/OS-Q/M5) 
+ *  [ Platform : NB-IoT](https://github.com/OS-Q/H9) 
 
-
-### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/H11)
-####  2019-8-27
+### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/N19)
+####  2019-9-6
