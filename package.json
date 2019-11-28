@@ -1,7 +1,7 @@
 {
-    "name": "framework-NB",
-    "description": "NB-IoT arduino Frameworks for PlatformIO",
-    "url": "https://github.com/OS-Q/N19",
+    "name": "framework-N39",
+    "description": "NB-IoT arduino Frameworks ",
+    "url": "https://github.com/OS-Q/N39",
     "system": "*",
     "version": "1.0.0"
 }
