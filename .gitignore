@@ -1,0 +1,6 @@
+make.sh
+release/
+.bak
+*.pyc
+*.pio/
+*.vscode/
